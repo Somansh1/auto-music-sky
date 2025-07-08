@@ -2,7 +2,7 @@
 
 An **Auto Piano Player** that reads a JSON/text note file exported from Sky: Children of the Light and automatically “plays” the corresponding keys on your keyboard.
 
-![screenshot of GUI](path/to/screenshot.png)
+![screenshot of GUI](src/gui.png)
 
 ## Features
 
@@ -77,20 +77,3 @@ We’ve also included a pre‑built .exe in the dist/ folder for Windows users�
 
 ### License
 This project is licensed under the MIT License. See LICENSE for details.
-
-
-## 5. Putting Your Code in `src/piano_player.py`
-
-Just move your long script into `src/piano_player.py`. At the top you may add a module docstring, e.g.:
-
-```python
-"""
-Auto Piano Player
------------------
-Reads note data exported from Sky: Children of the Light and simulates key presses
-to “play” the song automatically.
-
-Usage:
-    python piano_player.py
-"""
-```
