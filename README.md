@@ -24,10 +24,10 @@ An **Auto Piano Player** that reads a JSON/text note file exported from Sky: Chi
 
 1. **Clone the repo:**
 
-   ```bash
-   git clone https://github.com/Somansh1/auto-music-sky.git
-   cd auto-music-sky
-   ```
+```bash
+git clone https://github.com/Somansh1/auto-music-sky.git
+cd auto-music-sky
+```
    
 2. **Create and activate a virtual environment (recommended):**
 
